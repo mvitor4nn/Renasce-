@@ -2,7 +2,7 @@
   "name": "Renasce: Rotina e Evolução",
   "short_name": "Renasce",
   "description": "Planeje o dia seguinte, risque o que concluir e acompanhe sua evolução.",
-  "start_url": "./",
+  "start_url": "./?source=pwa",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
