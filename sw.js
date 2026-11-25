@@ -1,4 +1,4 @@
-const V = 'renasce-v1';
+const V = 'renasce-v2';
 const FILES = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 const isFont = u => u.hostname === 'fonts.googleapis.com' || u.hostname === 'fonts.gstatic.com';
 
